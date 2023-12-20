@@ -1,7 +1,7 @@
 
 <template>
-  <div>
-    sdfdsf
+  <div class="text-red-500">
+    hello world 
   </div>
 </template>
 
